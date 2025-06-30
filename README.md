@@ -22,13 +22,6 @@ Sou um entusiasta da tecnologia que está transformando sua paixão em carreira.
 
 ---
 
-## 📊 GitHub Stats
-
-![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilofilippe&show_icons=true&theme=dracula&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilofilippe&layout=compact&theme=dracula)
-
----
-
 ## 🎯 Objetivos
 
 - 🧩 Aprimorar habilidades em front-end com foco em frameworks modernos
