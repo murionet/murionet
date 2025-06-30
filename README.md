@@ -6,7 +6,7 @@ Sou um entusiasta da tecnologia que está transformando sua paixão em carreira.
 
 ---
 
-## 🧠 Atualmente aprendendo
+## 🧠 Tecnologias
 
 - 🔤 **Linguagens:** HTML, CSS e JavaScript
 - 🎨 **Web Design:** Figma
@@ -24,18 +24,18 @@ Sou um entusiasta da tecnologia que está transformando sua paixão em carreira.
 
 ## 🎯 Objetivos
 
-- 🧩 Aprimorar habilidades em front-end com foco em frameworks modernos
+- 🧩 Aprimorar habilidades em front-end com foco em frameworks
 - 💼 Contribuir para projetos open-source e ganhar experiência prática
-- 🚀 Criar projetos que gerem impacto real para usuários e empresas
+- 🚀 Criar projetos que geram impactos reais para usuários e empresas
 
 ---
 
 ## ⚡ Curiosidades
 
-- 🎮 Gosto de jogos, design criativo e experiências imersivas
+- 🎮 Gosto de jogos desafiantes
 - 🌱 Acredito na tecnologia como ferramenta de transformação
-- 💡 Apaixonado por aprender e resolver problemas
-
+- 💡 Voluntário na área de tecnologia e criação de midias na igreja Católica
+  
 ---
 
 > _"O código é o caminho de tranformar minha paixão em profissão!"_ 🚀
