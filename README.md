@@ -10,8 +10,7 @@ Busco aprendizado constante e quero crescer como desenvolvedor colaborando com s
 
 - **Linguagens:** HTML, CSS e JavaScript
 - **Web Design:** Figma
-- **Aprendendo agora:** Tailwind CSS e Bootstrap 5
-- **Em breve:** React, Angular e Vue.js
+- **Em breve:** Tailwind CSS e Bootstrap 5, React, Angular e Vue.js
 
 ---
 
