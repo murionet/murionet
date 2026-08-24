@@ -8,9 +8,9 @@ Busco aprendizado constante e quero crescer como desenvolvedor colaborando com s
 
 ## Tecnologias
 
-- **Linguagens:** HTML, CSS e JavaScript
+- **Linguagens e frameworks:** Javascript, Bootstrap 5 e Java
 - **Web Design:** Figma
-- **Em breve:** Tailwind CSS e Bootstrap 5, React, Angular e Vue.js
+- **Em breve:** Tailwind CSS, React, Angular e Vue.js
 
 ---
 
@@ -25,13 +25,13 @@ Busco aprendizado constante e quero crescer como desenvolvedor colaborando com s
 
 - Aprimorar habilidades em front-end com foco em frameworks
 - Contribuir para projetos open-source e ganhar experiência prática
--  Criar projetos que geram impactos reais para usuários e empresas
+- Criar projetos que geram impactos reais para a sociedade, com ênfase na área da educação.
 
 ---
 
 ## Curiosidades
 
-- Gosto de jogos desafiantes
+- Gosto de jogos competitivos
 - Acredito na tecnologia como ferramenta de transformação
 - Voluntário na área de tecnologia e criação de midias na igreja Católica
   
